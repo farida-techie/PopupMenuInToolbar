@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PopupMenu</string>
+    <string name="information">Information</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="show_item_menu">Show Item Menu</string>
+</resources>
